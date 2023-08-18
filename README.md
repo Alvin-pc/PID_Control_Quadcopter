@@ -7,4 +7,5 @@
 ![image](https://github.com/Alvin-pc/PID_Control_Quadcopter/assets/105581851/a9b3bb7c-36f0-4139-924c-b216cb3bfe98)
 ## Performance in the circular trajectory (Note: +Z is pointed downwards)- Fx=0.5N, Fy=0.5N, tau_x=sin(t), tau_x=cos(t), tau_z=2sin(t)
 ![image](https://github.com/Alvin-pc/PID_Control_Quadcopter/assets/105581851/3df6e7f4-917d-4ff5-bc9d-efb25c11a11d)
+
 For more details look at the attached documents.
